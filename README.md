@@ -23,13 +23,11 @@ Jira lövhəsində test növləri V-Model məntiğinə uyğun olaraq mərhələl
 ### 📊 1. Jira Kanban Lövhəsi (Board View)
 Layihənin iş axını və tapşırıqların sütunlar üzrə paylanması:
 
-![Kanban Board](./kanban-board.png)
-
+![Kanban Board](./Screenshot%202026-09-26%20182007.png)
 ### 📋 2. Biletlərin Ətraflı Siyahısı (Issues List View)
 Bütün tapşırıqların (`KAN-7` - `KAN-16`) statusları, prioritetləri və detalları:
 
-![Issues List](./issues-list.png)
-
+![Issues List](./Screenshot%202026-09-26%20181953.png)
 ---
 
 ## 📁 Layihə Faylları və Resursları
