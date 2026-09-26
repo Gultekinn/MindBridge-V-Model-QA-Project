@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| **Müəllif / Author** | **Tarix / Date** | **Metodologiya** | **İdarəetmə Aləti** |
+| **Author** | **Date** | **Metodologiya** | **İdarəetmə Aləti** |
 | :---: | :---: | :---: | :---: |
 | **Əzizova Gültəkin** | 26.09.2016 | V-Model (Verification & Validation) | Jira Kanban |
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Layihənin Məqsədi (Project Overview)
+## 📌 Project Overview
 Bu layihə Coursera MindBridge QA kursu çərçivəsində tələb olunan **V-Model** təcrübəsinin real mühitdə (**Jira Kanban** lövhəsində) tətbiqi, tələblərin planlaşdırılması (Verification) və test icrasının (Validation) strukturlaşdırılması məqsədilə hazırlanmışdır.
 
 ---
@@ -24,7 +24,7 @@ Jira lövhəsində test növləri V-Model məntiğinə uyğun olaraq mərhələl
 Layihənin iş axını və tapşırıqların sütunlar üzrə paylanması:
 
 ![Kanban Board](./Screenshot%202026-09-26%20182007.png)
-### 📋 2. Biletlərin Ətraflı Siyahısı (Issues List View)
+### 📋 2. Issues List View
 Bütün tapşırıqların (`KAN-7` - `KAN-16`) statusları, prioritetləri və detalları:
 
 ![Issues List](./Screenshot%202026-09-26%20181953.png)
