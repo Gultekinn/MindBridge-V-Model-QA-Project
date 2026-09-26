@@ -31,10 +31,10 @@ Bütün tapşırıqların (`KAN-7` - `KAN-16`) statusları, prioritetləri və d
 ---
 
 ## 📁 Layihə Faylları və Resursları
-Portfoliomuzda istifadə olunan rəsmi sənədlər və ixrac edilmiş məlumatlar:
+
 
 - 📄 **Ətraflı Laboratoriya Hesabatı (PDF):** [MindBridge V-Model QA Lab Report.pdf](./MindBridge%20V-Model%20QA%20Lab%20Report.pdf)
 - 📊 **Jira İxrac Faylı (CSV):** [Jira.csv](./Jira.csv)[cite: 5]
 
 ---
-<p align="center"><i>© 2016 Əzizova Gültəkin. Bütün hüquqlar qorunur.</i></p>
+
