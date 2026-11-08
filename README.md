@@ -4,7 +4,7 @@
 
 | **Author** | **Date** | **Metodologiya** | **İdarəetmə Aləti** |
 | :---: | :---: | :---: | :---: |
-| **Əzizova Gültəkin** | 26.09.2026 | V-Model (Verification & Validation) | Jira Kanban |
+| **Əzizova Gültəkin** | 26.09.2026 | V-Model (Verification & Validation) | Jira/Kanban |
 
 </div>
 
